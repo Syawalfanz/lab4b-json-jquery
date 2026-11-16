@@ -1,7 +1,7 @@
 # Lab 4b – Client-Side Scripting (JSON and jQuery)
 
 **Course:** BIC21203 Web Development (Session 2026/2027)
-**Name:** Syawal
+**Name:** Muhammad Syawal Fanzury Bin Mohd Azri
 **Matric No.:** CI250115
 
 ## Files
