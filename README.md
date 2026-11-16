@@ -17,7 +17,7 @@
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/lab4b-json-jquery.git
+   git clone https://github.com/Syawalfanz/lab4b-json-jquery.git
    cd lab4b-json-jquery
    ```
 2. Open the folder in **VS Code**.
